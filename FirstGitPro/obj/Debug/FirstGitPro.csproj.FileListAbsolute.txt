@@ -1,0 +1,9 @@
+E:\Kashan\FirstGitPro\FirstGitPro\bin\Debug\FirstGitPro.exe.config
+E:\Kashan\FirstGitPro\FirstGitPro\bin\Debug\FirstGitPro.exe
+E:\Kashan\FirstGitPro\FirstGitPro\bin\Debug\FirstGitPro.pdb
+E:\Kashan\FirstGitPro\FirstGitPro\obj\Debug\FirstGitPro.csprojResolveAssemblyReference.cache
+E:\Kashan\FirstGitPro\FirstGitPro\obj\Debug\FirstGitPro.Form1.resources
+E:\Kashan\FirstGitPro\FirstGitPro\obj\Debug\FirstGitPro.Properties.Resources.resources
+E:\Kashan\FirstGitPro\FirstGitPro\obj\Debug\FirstGitPro.csproj.GenerateResource.Cache
+E:\Kashan\FirstGitPro\FirstGitPro\obj\Debug\FirstGitPro.exe
+E:\Kashan\FirstGitPro\FirstGitPro\obj\Debug\FirstGitPro.pdb
